@@ -3,6 +3,7 @@ In this paper, our latest outcomes, codes, and finally, the citation of our prop
 - Intro
 - options
 - results (ocr, semi image)
+- Figures
 - samples
 - codes
 - citation
