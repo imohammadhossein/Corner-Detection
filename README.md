@@ -1,4 +1,5 @@
-# Corner-Detection
+# Alignment Method For Rectangular Shaped Objects Based on
+an Accurate Corner Detection Network
 In this paper, our latest outcomes, codes, and finally, the citation of our proposed model will e pulished and discussed. 
 - Intro
 - options
